@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# CMSC140
+Introduces programming and problem solving using a contemporary programming language. Topics include principles of procedural programming, software development and debugging techniques, control structures, data types, functions, one-dimensional arrays, and file processing. 
 
-You can use the [editor on GitHub](https://github.com/Tevy-B/CMSC140/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Take-Aways
+Upon completing this course, I had learned to:
+- Demonstrate the ability to design, write, test, and debug computer programs using procedural techniques
+- Demonstrate the basic syntax and expressions of the programming language in use.
+- Select and apply the appropriate control structure.
+- Implement top down design techniques and subprogramming.
+- Declare and process one-dimensional arrays, including implementation of algorithms for searching and sorting arrays
+- Use simple file input and output operations
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Course Website
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[CMSC140](https://catalog.montgomerycollege.edu/preview_course_nopop.php?catoid=2&coid=1285)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tevy-B/CMSC140/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
